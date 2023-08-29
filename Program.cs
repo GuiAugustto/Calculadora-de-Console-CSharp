@@ -1,5 +1,3 @@
-﻿using System.Reflection.Metadata;
-
 namespace Calculadora_Projeto;
 
 class Calculadora
